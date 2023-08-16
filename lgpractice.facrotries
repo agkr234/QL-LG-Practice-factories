@@ -1,0 +1,50 @@
+[
+  {
+	"cvars":{
+		"g_startingWeapons":"32",
+		"timelimit":"3",
+		"fraglimit":"50",
+		"g_overtime":"0",
+		"g_infiniteammo": "1",
+		"g_startinghealth": "200",
+		"g_startingHealthBonus": "0",
+		"g_startingarmor": "200",
+		"g_spawnItemWeapons": "0",
+		"g_spawnItemAmmo": "0",
+		"g_spawnItemArmor": "0",
+		"g_spawnItemHealth": "0",
+		"g_spawnItemHoldable": "0",
+		"g_spawnItemPowerup": "0",
+		"g_spawnItemRune": "0"
+	},
+	"basegt": "ca",
+	"id":"ca_lgprac",
+	"title":"CA LG Practice",
+	"description":"Round-based LG Practice",
+	"tags":["aimtraining"]
+  },
+  {
+	"cvars":{
+		"g_startingWeapons":"32",
+		"timelimit":"3",
+		"fraglimit":"50",
+		"g_overtime":"0",
+		"g_infiniteammo": "1",
+		"g_startinghealth": "200",
+		"g_startingHealthBonus": "0",
+		"g_startingarmor": "200",
+		"g_spawnItemWeapons": "0",
+		"g_spawnItemAmmo": "0",
+		"g_spawnItemArmor": "0",
+		"g_spawnItemHealth": "0",
+		"g_spawnItemHoldable": "0",
+		"g_spawnItemPowerup": "0",
+		"g_spawnItemRune": "0"
+	},
+	"basegt": "duel",
+	"id":"duel_lgprac",
+	"title":"Duel LG Practice",
+	"description":"Duel LG Practice",
+	"tags":["aimtraining"]
+  }
+]
